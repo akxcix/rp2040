@@ -20,3 +20,6 @@ rustup component add llvm-tools-preview
 cargo install elf2uf2-rs
 cargo build --release
 ```
+
+## References:
+- [Low Level Learning YT](https://www.youtube.com/watch?v=jZT8APrzvc4)
